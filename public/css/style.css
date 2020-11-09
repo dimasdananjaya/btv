@@ -1,0 +1,53 @@
+html{
+    font-family: 'Lato', sans-serif !important;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+/*********** home *********/
+#home .jumbotron{
+    text-align: center;
+    min-height: 26em;
+    background-color: black;
+    background: url("/resources/images/home-banner.jpg") no-repeat center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;; 
+}
+
+#home .jumbotron p{
+    color: #ffffff;
+}
+
+#home h1{
+    font-size: 3.6rem;
+    font-weight: 600;
+    line-height: 1.138888889;
+    color: #ffffff;
+}
+
+#home .card{
+    margin-top: -0.1em;
+    border-top: none;
+}
+
+#home .card>img{
+    height: 18em;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-feature-settings: "lnum";
+    font-variant-numeric: lining-nums;
+    font-weight: 700;
+    letter-spacing: -0.0415625em;
+    line-height: 1.25;
+    margin: 3.5rem 0 2rem;
+}
+/*********** end home *********/
+
+/*********** utility *********/
+.reduce-top-margin{
+    margin-top: -1.8em;
+}
+/*********** end utility *********/
