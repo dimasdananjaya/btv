@@ -1,8 +1,9 @@
-html{
+body,html{
     font-family: 'Lato', sans-serif !important;
     border: none;
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
 }
 
 /*********** home *********/
@@ -27,6 +28,16 @@ html{
     color: #ffffff;
 }
 
+
+#home p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
 #home .card{
     margin-top: -0.1em;
     border-top: none;
@@ -35,6 +46,7 @@ html{
 #home .card>img{
     height: 18em;
 }
+
 
 h1, h2, h3, h4, h5, h6{
     font-feature-settings: "lnum";

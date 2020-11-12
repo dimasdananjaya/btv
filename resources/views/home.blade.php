@@ -8,6 +8,15 @@
     </div><!--jumbotron-->
 
     <div class="container">
+        <div class="row mt-2 mb-3">
+            <div class="col-lg-4 reduce-top-margin">
+                <h2 class="text-center">More Places To Explore</h2>
+            </div><!--col-lg-4-->
+            <div class="col-lg-8">
+                <p>We share our experience traveling around villages in Bali worthy visiting</p>
+            </div><!--col-lg-8-->
+        </div><!--row-->
+
         <div data-aos="fade-down" class="carousel-home">
             <div class="card">
                 <img src="/resources/images/mas-home.jpg" alt="Avatar" style="width:100%">
