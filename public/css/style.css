@@ -47,6 +47,21 @@ body,html{
     height: 18em;
 }
 
+#home .support-locals-banner {
+    height: 30em;
+    background: url("/resources/images/locals.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+#home .black-layer {
+    background-color: rgba(13, 13, 13, 0.5);
+    text-align: center;
+    height: 30em;
+    padding-top: 5.4em;
+}
 
 h1, h2, h3, h4, h5, h6{
     font-feature-settings: "lnum";
