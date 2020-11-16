@@ -41,6 +41,7 @@ body,html{
 #home .card{
     margin-top: -0.1em;
     border-top: none;
+    min-height: 30em;
 }
 
 #home .card>img{

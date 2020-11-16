@@ -25,6 +25,7 @@
                 <div class="container reduce-top-margin">
                     <h5><b>Mas Village</b></h5>
                     <p class="reduce-top-margin">Ubud, Gianyar</p>
+                    <a href="#" class="reduce-top-margin">Read More</a>
                 </div><!--container-->
             </div><!--card-->
 
@@ -32,7 +33,7 @@
                 <img src="/resources/images/karangasem.jpg" style="width:100%">
                 <div class="container reduce-top-margin">
                     <h5><b>Penglipuran Tourism Village</b></h5>
-                    <p class="reduce-top-margin">Bangli</p>
+                    <a href="#" class="reduce-top-margin">Read More</a>
                 </div><!--container-->
             </div><!--card-->
 
@@ -40,7 +41,7 @@
                 <img src="/resources/images/payangan.jpg" style="width:100%">
                 <div class="container reduce-top-margin">
                     <h5><b>Payangan</b></h5>
-                    <p class="reduce-top-margin">Gianyar</p>
+                    <a href="#" class="reduce-top-margin">Read More</a>
                 </div><!--container-->
             </div><!--card-->
 
@@ -48,7 +49,7 @@
                 <img src="/resources/images/trunyan.jpg" style="width:100%">
                 <div class="container reduce-top-margin">
                     <h5><b>Penglipuran Tourism Village</b></h5>
-                    <p class="reduce-top-margin">Bangli</p>
+                    <a href="#" class="reduce-top-margin">Read More</a>
                 </div><!--container-->
             </div><!--card-->
 
@@ -59,6 +60,7 @@
             <div class="container">
                 <h1 class="display-4">RUN BY THE LOCALS</h1>
                 <p class="lead reduce-top-margin text-center">Your visit will have a generous impact for the local people</p>
+                <a href="#" class="reduce-top-margin">Read More</a>
             </div><!--container-->
         </div><!--black layer-->
     </div><!--end support locals-->
