@@ -1,9 +1,13 @@
 body,html{
-    font-family: 'Lato', sans-serif !important;
+
     border: none;
     margin: 0;
     padding: 0;
     overflow-x: hidden;
+}
+
+p{
+    font-family: 'Lato', sans-serif;
 }
 
 /*********** home *********/
@@ -49,7 +53,7 @@ body,html{
 }
 
 #home .support-locals-banner {
-    height: 30em;
+    min-height: 23em;
     background: url("/resources/images/locals.jpg");
     background-size: cover;
     background-position: center;
@@ -60,11 +64,13 @@ body,html{
 #home .black-layer {
     background-color: rgba(13, 13, 13, 0.5);
     text-align: center;
-    height: 30em;
-    padding-top: 5.4em;
+    min-height: 23em;
+    padding-top: 2.4em;
+    padding-bottom: 2.4em;
 }
 
 h1, h2, h3, h4, h5, h6{
+    font-family: 'Lato', sans-serif !important;
     font-feature-settings: "lnum";
     font-variant-numeric: lining-nums;
     font-weight: 700;

@@ -24,6 +24,8 @@
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@700;900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
@@ -119,6 +121,7 @@
         $(".carousel-home").slick({
             arrows: true,
             infinite: true,
+            dots: true,
             speed: 1000,
             autoplay: true,
             autoplaySpeed: 5000,
