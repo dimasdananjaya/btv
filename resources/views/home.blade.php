@@ -21,6 +21,30 @@
 
         <div data-aos="fade-down" class="carousel-home">
             <div class="card">
+                <img src="/resources/images/bukit-tengah.jpg" style="width:100%">
+                <div class="container reduce-top-margin">
+                    <h5><b>Bukit Tengah</b></h5>
+                    <a href="#" class="reduce-top-margin">View More</a>
+                </div><!--container-->
+            </div><!--card-->
+
+            <div class="card">
+                <img src="/resources/images/tamblingan.jpg" style="width:100%">
+                <div class="container reduce-top-margin">
+                    <h5><b>Tamblingan</b></h5>
+                    <a href="#" class="reduce-top-margin">View More</a>
+                </div><!--container-->
+            </div><!--card-->
+
+            <div class="card">
+                <img src="/resources/images/kintamani.jpg" style="width:100%">
+                <div class="container reduce-top-margin">
+                    <h5><b>Pinggan</b></h5>
+                    <a href="#" class="reduce-top-margin">View More</a>
+                </div><!--container-->
+            </div><!--card-->
+
+            <div class="card">
                 <img src="/resources/images/mas-home.jpg" alt="Avatar" style="width:100%">
                 <div class="container reduce-top-margin">
                     <h5><b>Mas Village</b></h5>
