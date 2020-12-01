@@ -20,3 +20,5 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Route::get('/tamblingan', [App\Http\Controllers\PagesController::class, 'tamblinganPage'])->name('tamblingan');

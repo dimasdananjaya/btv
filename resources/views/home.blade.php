@@ -2,7 +2,7 @@
 
 @section('content')
 <section id="home">
-    <div class="jumbotron reduce-top-margin">
+    <div class="jumbotron reduce-top-margin" style="background-image: url(/resources/images/home-banner.jpg)">
         <h1 class="display-4">Travel & Discover</h1>
         <p class="lead reduce-top-margin">Villages In Bali to Explore</p>
     </div><!--jumbotron-->
@@ -32,7 +32,7 @@
                 <img src="/resources/images/tamblingan.jpg" style="width:100%">
                 <div class="container reduce-top-margin">
                     <h5><b>Tamblingan</b></h5>
-                    <a href="#" class="reduce-top-margin">View More</a>
+                    <a href="/tamblingan" class="reduce-top-margin">View More</a>
                 </div><!--container-->
             </div><!--card-->
 

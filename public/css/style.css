@@ -11,21 +11,21 @@ p{
 }
 
 /*********** home *********/
-#home .jumbotron{
+.jumbotron{
     text-align: center;
     min-height: 26em;
     background-color: black;
-    background: url("/resources/images/home-banner.jpg") no-repeat center;
+    /**background: url("/resources/images/home-banner.jpg") no-repeat center;**/
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;; 
 }
 
-#home .jumbotron p{
+.jumbotron p{
     color: #ffffff;
 }
 
-#home h1{
+.jumbotron h1{
     font-size: 3.6rem;
     font-weight: 600;
     line-height: 1.138888889;
